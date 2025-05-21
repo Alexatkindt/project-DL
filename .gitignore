@@ -1,0 +1,43 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Image folder - ignore everything in these directories
+schilderijen/
+cleaned_paintings_dataset/
+raw_dataset/
+dataset_2Painters_organized/
+
+
+# Windows specific
+Thumbs.db
+desktop.ini
+

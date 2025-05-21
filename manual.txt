@@ -1,0 +1,1 @@
+Voor deze Applicatie werkt het simple enige dat je moet doen is een schilderij van Picasso of Mondriaan kiezen en de applicatie zal zeggen welke schilder het zal zijn.
