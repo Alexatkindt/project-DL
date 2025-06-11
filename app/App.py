@@ -15,8 +15,7 @@ class PainterClassifierApp:
         # Try to load the trained model
         try:
             # Try different possible model filenames - keeping your original paths
-            model_files = ["modellen/fine_tuned_model.keras", "convnet_from_scratch_with_augmentation.keras", 
-                          "convnet_from_scratch.keras", "transfer_model.keras"]
+            model_files = ["modellen/fine_tuned_model.keras"]
             
             self.model = None
             for model_file in model_files:
